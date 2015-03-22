@@ -1,8 +1,3 @@
----
-title: "README.md"
-output: html_document
----
-
 ## Overview
 
 The files in this repo are for the Getting and Cleaning Data course project,
